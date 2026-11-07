@@ -1,0 +1,135 @@
+Country,Site_Name,Follow_ID_Number,Date,Unique_Daily_ID,Primate_species,Common_name,Primate_age_class,Plant_species,Foraging_duration_(min),Intake_rate_(g_wet_weight_per_min),Fruit_consumed_(g_wet_weight),Number_of_hours_observed_that_day,Notes,Average_Adult_Body_Weight_(kg),Average_Percent_Frugivory
+Costa Rica,Sector Santa Rosa,05.14-01,2024-05-14,2024-05-14_id05.14-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Ficus crassinervia,29,4.364185126,NA,7,,7.4995,71
+Costa Rica,Sector Santa Rosa,05.14-01,2024-05-14,2024-05-14_id05.14-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias purpurea,10,39.62962963,NA,7,,7.4995,71
+Costa Rica,Sector Santa Rosa,06.10-01,2024-06-10,2024-06-10_id06.10-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Genipa americana,10,48.12598291,NA,3.4,,7.4995,71
+Costa Rica,Sector Santa Rosa,06.10-01,2024-06-10,2024-06-10_id06.10-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Aralia excelsa,43,4.723674786,NA,3.4,,7.4995,71
+Costa Rica,Sector Santa Rosa,06.12-01,2024-06-12,2024-06-12_id06.12-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Genipa americana,33,48.12598291,NA,3.85,,7.4995,71
+Costa Rica,Sector Santa Rosa,06.26-01,2024-06-26,2024-06-26_id06.26-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Genipa americana,18,48.12598291,NA,3.4,,7.4995,71
+Costa Rica,Sector Santa Rosa,06.26-01,2024-06-26,2024-06-26_id06.26-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Aralia excelsa,24,4.723674786,NA,3.4,,7.4995,71
+Costa Rica,Sector Santa Rosa,08.26-02,2024-08-26,2024-08-26_id08.26-02,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Ficus crocata,24,63.72077411,NA,6,,7.4995,71
+Costa Rica,Sector Santa Rosa,08.26-02,2024-08-26,2024-08-26_id08.26-02,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Maclura tinctoria,27,11.47993019,NA,6,,7.4995,71
+Costa Rica,Sector Santa Rosa,08.26-02,2024-08-26,2024-08-26_id08.26-02,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias mombin,11,32.37644765,NA,6,,7.4995,71
+Costa Rica,Sector Santa Rosa,09.23-01,2024-09-23,2024-09-23_id09.23-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias mombin,52,32.37644765,NA,7.85,,7.4995,71
+Costa Rica,Sector Santa Rosa,09.26-01,2024-09-26,2024-09-26_id09.26-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias mombin,38,32.37644765,NA,5.85,,7.4995,71
+Costa Rica,Sector Santa Rosa,10.08-01,2024-10-08,2024-10-08_id10.08-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Ficus cotinifolia,80,7.552161491,NA,7.5,,7.4995,71
+Costa Rica,Sector Santa Rosa,10.08-01,2024-10-08,2024-10-08_id10.08-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias mombin,16,32.37644765,NA,7.5,,7.4995,71
+Costa Rica,Sector Santa Rosa,10.14-01,2024-10-14,2024-10-14_id10.14-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Ficus cotinifolia,25,7.552161491,NA,5.15,,7.4995,71
+Costa Rica,Sector Santa Rosa,10.14-01,2024-10-14,2024-10-14_id10.14-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias mombin,6,32.37644765,NA,5.15,,7.4995,71
+Costa Rica,Sector Santa Rosa,10.14-01,2024-10-14,2024-10-14_id10.14-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias radlkoferi,24,4.148881579,NA,5.15,calculated with unripe fruit weight,7.4995,71
+Costa Rica,Sector Santa Rosa,10.23-01,2024-10-23,2024-10-23_id10.23-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Ficus cotinifolia,55,7.552161491,NA,3.33,,7.4995,71
+Costa Rica,Sector Santa Rosa,10.23-01,2024-10-23,2024-10-23_id10.23-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias mombin,14,32.37644765,NA,3.33,,7.4995,71
+Costa Rica,Sector Santa Rosa,10.01-01,2024-10-01,2024-10-01_id10.01-01,Ateles geoffroyi,Geoffroy's spider monkey,Adult,Spondias mombin,50,32.37644765,NA,5,,7.4995,71
+Uganda,Kibale,NA,2023-09-12,2023-09-12,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,11.02,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-10-04,2023-10-04,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,15.98,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-10-06,2023-10-06,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,41.69,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-10-17,2023-10-17,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,44.71,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-10-19,2023-10-19,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,37.58,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-10-24,2023-10-24,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,58.32,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-10-27,2023-10-27,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,86.62,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-10-31,2023-10-31,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,91.37,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-11-01,2023-11-01,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,211.60,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-11-15,2023-11-15,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,75.60,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-11-16,2023-11-16,Cercopithecus ascanius,Red-tailed monkey,Adult,Mimusops bagshawei,NA,NA,23.52,11-12,,3.55,46.81
+Uganda,Kibale,NA,2024-04-12,2024-04-12,Cercopithecus ascanius,Red-tailed monkey,Adult,Uvariopsis congensis,NA,NA,69.92,11-12,,3.55,46.81
+Uganda,Kibale,NA,2024-09-19,2024-09-19,Cercopithecus ascanius,Red-tailed monkey,Adult,Celtis gomphophylla,NA,NA,47.95,11-12,,3.55,46.81
+Uganda,Kibale,NA,2023-10-04,2023-10-04,Cercopithecus mitis,Blue monkey,Adult,Mimusops bagshawei,NA,NA,15.12,11-12,,5.55,47.5
+Uganda,Kibale,NA,2023-12-05,2023-12-05,Cercopithecus mitis,Blue monkey,Adult,Mimusops bagshawei,NA,NA,92.40,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-01-17,2024-01-17,Cercopithecus mitis,Blue monkey,Adult,Mimusops bagshawei,NA,NA,95.76,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-05-08,2024-05-08,Cercopithecus mitis,Blue monkey,Adult,Uvariopsis congensis,NA,NA,97.52,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-05-28,2024-05-28,Cercopithecus mitis,Blue monkey,Adult,Uvariopsis congensis,NA,NA,64.40,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-09-12,2024-09-12,Cercopithecus mitis,Blue monkey,Adult,Celtis gomphophylla,NA,NA,72.79,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-09-13,2024-09-13,Cercopithecus mitis,Blue monkey,Adult,Celtis gomphophylla,NA,NA,83.16,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-09-17,2024-09-17,Cercopithecus mitis,Blue monkey,Adult,Celtis gomphophylla,NA,NA,101.95,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-09-18,2024-09-18,Cercopithecus mitis,Blue monkey,Adult,Celtis gomphophylla,NA,NA,101.30,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-09-19,2024-09-19,Cercopithecus mitis,Blue monkey,Adult,Celtis gomphophylla,NA,NA,58.32,11-12,,5.55,47.5
+Uganda,Kibale,NA,2024-10-17,2024-10-17,Cercopithecus mitis,Blue monkey,Adult,Celtis gomphophylla,NA,NA,26.14,11-12,,5.55,47.5
+Uganda,Kibale,NA,2025-02-11,2025-02-11,Cercopithecus mitis,Blue monkey,Adult,Mimusops bagshawei,NA,NA,72.24,11-12,,5.55,47.5
+Uganda,Kibale,NA,2018-08-30,2018-08-30,Colobus guereza,Mantled guereza,Adult,Celtis gomphophylla,NA,NA,35.64,11-12,,10.55,7.33
+Uganda,Kibale,NA,2023-09-12,2023-09-12,Lophocebus albigena,Grey-cheeked mangabey,Adult,Celtis gomphophylla,NA,NA,48.82,11-12,,7.7,59
+Uganda,Kibale,NA,2023-10-12,2023-10-12,Lophocebus albigena,Grey-cheeked mangabey,Adult,Celtis gomphophylla,NA,NA,49.90,11-12,,7.7,59
+Uganda,Kibale,NA,2023-11-07,2023-11-07,Lophocebus albigena,Grey-cheeked mangabey,Adult,Celtis gomphophylla,NA,NA,34.78,11-12,,7.7,59
+Uganda,Kibale,NA,2023-11-07,2023-11-07,Lophocebus albigena,Grey-cheeked mangabey,Adult,Mimusops bagshawei,NA,NA,47.04,11-12,,7.7,59
+Uganda,Kibale,NA,2023-11-08,2023-11-08,Lophocebus albigena,Grey-cheeked mangabey,Adult,Celtis gomphophylla,NA,NA,51.62,11-12,,7.7,59
+Uganda,Kibale,NA,2023-11-09,2023-11-09,Lophocebus albigena,Grey-cheeked mangabey,Adult,Celtis gomphophylla,NA,NA,41.47,11-12,,7.7,59
+Uganda,Kibale,NA,2023-11-10,2023-11-10,Lophocebus albigena,Grey-cheeked mangabey,Adult,Celtis gomphophylla,NA,NA,85.32,11-12,,7.7,59
+Uganda,Kibale,NA,2023-11-28,2023-11-28,Lophocebus albigena,Grey-cheeked mangabey,Adult,Celtis gomphophylla,NA,NA,52.92,11-12,,7.7,59
+Uganda,Kibale,NA,2023-11-29,2023-11-29,Lophocebus albigena,Grey-cheeked mangabey,Adult,Mimusops bagshawei,NA,NA,23.52,11-12,,7.7,59
+Uganda,Kibale,NA,2023-11-30,2023-11-30,Lophocebus albigena,Grey-cheeked mangabey,Adult,Mimusops bagshawei,NA,NA,85.68,11-12,,7.7,59
+Uganda,Kibale,NA,2024-05-22,2024-05-22,Lophocebus albigena,Grey-cheeked mangabey,Adult,Uvariopsis congensis,NA,NA,66.24,11-12,,7.7,59
+Uganda,Kibale,NA,2024-05-23,2024-05-23,Lophocebus albigena,Grey-cheeked mangabey,Adult,Uvariopsis congensis,NA,NA,75.44,11-12,,7.7,59
+Uganda,Kibale,NA,2024-05-24,2024-05-24,Lophocebus albigena,Grey-cheeked mangabey,Adult,Uvariopsis congensis,NA,NA,218.96,11-12,,7.7,59
+Thailand,Phu Khieo Wildlife Sanctuary,Eva,2008-08-21,2008-08-21_idEva,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,31,9.43,NA,0.034444444,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,app,2019-12-02,2019-12-02_idapp,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,24,9.43,NA,0.026111111,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,zim,2019-12-23,2019-12-23_idzim,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,16,46.881395,NA,0.022222222,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,lev,2021-01-23,2021-01-23_idlev,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,32,46.881395,NA,0.030555556,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,zim,2021-01-24,2021-01-24_idzim,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,24,46.881395,NA,0.011666667,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,but,2021-01-27,2021-01-27_idbut,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,16,46.881395,NA,0.032777778,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,jak,2022-03-29,2022-03-29_idjak,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,14,46.881395,NA,0.006111111,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,juj,2022-04-25,2022-04-25_idjuj,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,14,46.881395,NA,0.003888889,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,mii,2022-04-25,2022-04-25_idmii,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,14,46.881395,NA,0.008888889,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,win,2022-04-25,2022-04-25_idwin,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,28,46.881395,NA,0.023333333,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,rem,2022-06-18,2022-06-18_idrem,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,26,9.43,NA,0.023333333,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,ole,2022-06-19,2022-06-19_idole,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,26,9.43,NA,0.011666667,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,oba,2022-06-29,2022-06-29_idoba,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,34,9.43,NA,0.014444444,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,qua,2022-07-23,2022-07-23_idqua,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,40,9.43,NA,0.011666667,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,bab,2022-07-24,2022-07-24_idbab,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,24,9.43,NA,0.023333333,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,ame,2022-07-31,2022-07-31_idame,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,30,9.43,NA,0.011666667,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,ver,2022-08-08,2022-08-08_idver,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,28,9.43,NA,0.011666667,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,kwi,2022-08-10,2022-08-10_idkwi,Macaca assamensis,Assamese macaque,Adult,Alphonsea sp.,26,9.43,NA,0.012777778,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,bru,2022-09-20,2022-09-20_idbru,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,14,46.881395,NA,0.023333333,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,Nua,2008-04-21,2008-04-21_idNua,Macaca assamensis,Assamese macaque,Adult,Ficus altissima,16,46.881395,NA,0.017222222,,9,59.1
+Thailand,Phu Khieo Wildlife Sanctuary,Nua,2008-04-21,2008-04-21_idNua,Macaca assamensis,Assamese macaque,Adult,Garcinia pedunculata,3,3.28,NA,0.017222222,,9,59.1
+Japan,Yakushima Island,HK,1998-07-04,1998-07-04,Macaca fuscata,Japanese macaque,Adult,Ficus superba,23.5,19.57918093,NA,9.340555556,all eaten from tree,9.85,28.6
+Japan,Yakushima Island,IN,1998-07-06,1998-07-06,Macaca fuscata,Japanese macaque,Adult,Ficus superba,15.8,19.57918093,NA,8.190555556,all eaten from tree,9.85,28.6
+Japan,Yakushima Island,IN,1998-07-08,1998-07-08,Macaca fuscata,Japanese macaque,Adult,Ficus superba,29.6,19.57918093,NA,10.29138889,all eaten from tree,9.85,28.6
+Japan,Yakushima Island,HK,1998-07-10,1998-07-10,Macaca fuscata,Japanese macaque,Adult,Ficus superba,39.3,19.57918093,NA,9.076666667,all eaten from tree,9.85,28.6
+Japan,Yakushima Island,YM,1998-10-19,1998-10-19,Macaca fuscata,Japanese macaque,Adult,Ficus superba,9.5,19.57918093,NA,9.000277778,all eaten from tree,9.85,28.6
+Japan,Yakushima Island,YM,1998-10-21,1998-10-21,Macaca fuscata,Japanese macaque,Adult,Ficus superba,9.2,19.57918093,NA,9.740833333,all eaten from tree,9.85,28.6
+Uganda,Kibale,NA,2019-03-22,2019-03-22,Papio anubis,Olive baboon,Adult,Parinari excelsa,NA,NA,506.80,11-12,,16.5,44.6
+Uganda,Kibale,NA,2019-04-15,2019-04-15,Papio anubis,Olive baboon,Adult,Uvariopsis congensis,NA,NA,158.24,11-12,,16.5,44.6
+Indonesia,Tuanan,373,2004-05-07,2004-05-07_id373,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Parartocarpus venenosa,130,73.416,NA,9.483333333,,55.03,63.9
+Indonesia,Tuanan,398,2004-05-27,2004-05-27_id398,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Parartocarpus venenosa,134,73.416,NA,10.9,,55.03,63.9
+Indonesia,Tuanan,433,2004-07-04,2004-07-04_id433,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Parartocarpus venenosa,72,73.416,NA,10.93333333,,55.03,63.9
+Indonesia,Tuanan,433,2004-07-04,2004-07-04_id433,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Planchonella malaccensis,34,47.6,NA,10.93333333,,55.03,63.9
+Indonesia,Tuanan,1385,2005-12-12,2005-12-12_id1385,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Diospyros areolata,336,24.32,NA,10.15,,55.03,63.9
+Indonesia,Tuanan,1386,2005-12-13,2005-12-13_id1386,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Diospyros areolata,300,24.32,NA,9.883333333,,55.03,63.9
+Indonesia,Tuanan,1389,2005-12-14,2005-12-14_id1389,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Diospyros areolata,280,24.32,NA,9.083333333,,55.03,63.9
+Indonesia,Tuanan,1875,2006-09-19,2006-09-19_id1875,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Planchonella malaccensis,178,47.6,NA,12.03333333,,55.03,63.9
+Indonesia,Tuanan,1919,2006-11-17,2006-11-17_id1919,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Diospyros areolata,282,24.32,NA,11.6,,55.03,63.9
+Indonesia,Tuanan,2744,2008-07-17,2008-07-17_id2744,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Planchonella malaccensis,168,47.6,NA,10.18333333,,55.03,63.9
+Indonesia,Tuanan,3668,2009-11-15,2009-11-15_id3668,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Diospyros areolata,280,24.32,NA,11.25,,55.03,63.9
+Indonesia,Tuanan,3772,2010-01-12,2010-01-12_id3772,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Diospyros areolata,310,24.32,NA,11.63333333,,55.03,63.9
+Indonesia,Tuanan,4473,2011-05-28,2011-05-28_id4473,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Parartocarpus venenosa,104,73.416,NA,9.7,,55.03,63.9
+Indonesia,Tuanan,4495,2011-06-04,2011-06-04_id4495,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Parartocarpus venenosa,98,73.416,NA,11.13333333,,55.03,63.9
+Indonesia,Tuanan,4901,2012-03-31,2012-03-31_id4901,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Parartocarpus venenosa,90,73.416,NA,10.53333333,,55.03,63.9
+Indonesia,Tuanan,4901,2012-03-31,2012-03-31_id4901,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Palaquium ridleyi,58,4.32,NA,10.53333333,,55.03,63.9
+Indonesia,Tuanan,8768,2017-03-02,2017-03-02_id8768,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Parartocarpus venenosa,112,73.416,NA,10.45,,55.03,63.9
+Indonesia,Tuanan,10282,2019-02-21,2019-02-21_id10282,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Parartocarpus venenosa,98,73.416,NA,9.766666667,,55.03,63.9
+Indonesia,Tuanan,10282,2019-02-21,2019-02-21_id10282,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Palaquium ridleyi,6,4.32,NA,9.766666667,,55.03,63.9
+Indonesia,Tuanan,10282,2019-02-21,2019-02-21_id10282,Pongo pygmaeus wurmbii,Bornean orangutan,Adult,Diospyros areolata,8,24.32,NA,9.766666667,,55.03,63.9
+Madagascar,Kianjavato,01.27-01,2022-01-27,2022-01-27_id01.27-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,0.53,26.33,NA,9,,3.65,74
+Madagascar,Kianjavato,01.27-01,2022-01-27,2022-01-27_id01.27-01,Varecia variegata,Black and white ruffed lemur,Adult,Dypsis fibrosa,2.53,23.38,NA,9,,3.65,74
+Madagascar,Kianjavato,01.27-01,2022-01-27,2022-01-27_id01.27-01,Varecia variegata,Black and white ruffed lemur,Adult,Tina phellocarpa,12.28,10.72,NA,9,,3.65,74
+Madagascar,Kianjavato,01.27-01,2022-01-27,2022-01-27_id01.27-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus dimepate,1.58,14.02,NA,9,,3.65,74
+Madagascar,Kianjavato,01.27-01,2022-01-27,2022-01-27_id01.27-01,Varecia variegata,Black and white ruffed lemur,Adult,Ficus polita,0.23,203.19,NA,9,,3.65,74
+Madagascar,Kianjavato,01.27-01,2022-01-27,2022-01-27_id01.27-01,Varecia variegata,Black and white ruffed lemur,Adult,Mangifera indica,1.38,219.38,NA,9,,3.65,74
+Madagascar,Kianjavato,03.01-01,2022-03-01,2022-03-01_id03.01-01,Varecia variegata,Black and white ruffed lemur,Adult,Canarium ferrugineum,12.4,16,NA,6,,3.65,74
+Madagascar,Kianjavato,03.02-01,2022-03-02,2022-03-02_id03.02-01,Varecia variegata,Black and white ruffed lemur,Adult,Canarium ferrugineum,8.25,14.73,NA,7,,3.65,74
+Madagascar,Kianjavato,03.04-01,2022-03-04,2022-03-04_id03.04-01,Varecia variegata,Black and white ruffed lemur,Adult,Dypsis fibrosa,5.52,36.04,NA,6,,3.65,74
+Madagascar,Kianjavato,03.04-01,2022-03-04,2022-03-04_id03.04-01,Varecia variegata,Black and white ruffed lemur,Adult,Tina phellocarpa,0.33,4.62,NA,6,,3.65,74
+Madagascar,Kianjavato,03.04-01,2022-03-04,2022-03-04_id03.04-01,Varecia variegata,Black and white ruffed lemur,Adult,Canarium ferrugineum,8.5,16.68,NA,6,,3.65,74
+Madagascar,Kianjavato,03.15-01,2022-03-15,2022-03-15_id03.15-01,Varecia variegata,Black and white ruffed lemur,Adult,Artocarpus heterophyllus,0.77,78.07,NA,7,,3.65,74
+Madagascar,Kianjavato,03.15-01,2022-03-15,2022-03-15_id03.15-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,6.4,24.13,NA,7,,3.65,74
+Madagascar,Kianjavato,03.15-01,2022-03-15,2022-03-15_id03.15-01,Varecia variegata,Black and white ruffed lemur,Adult,Canarium ferrugineum,3.35,16.93,NA,7,,3.65,74
+Madagascar,Kianjavato,03.16-01,2022-03-16,2022-03-16_id03.16-01,Varecia variegata,Black and white ruffed lemur,Adult,Artocarpus heterophyllus,29.58,46.24,NA,8,,3.65,74
+Madagascar,Kianjavato,03.16-01,2022-03-16,2022-03-16_id03.16-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,7.68,20.40,NA,8,,3.65,74
+Madagascar,Kianjavato,03.21-01,2022-03-21,2022-03-21_id03.21-01,Varecia variegata,Black and white ruffed lemur,Adult,Artocarpus heterophyllus,1.58,64.80,NA,9,,3.65,74
+Madagascar,Kianjavato,03.21-01,2022-03-21,2022-03-21_id03.21-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,21.58,19.84,NA,9,,3.65,74
+Madagascar,Kianjavato,03.23-01,2022-03-23,2022-03-23_id03.23-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,30.8,16.18,NA,8,,3.65,74
+Madagascar,Kianjavato,03.31-01,2022-03-31,2022-03-31_id03.31-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,4.23,14.92,NA,8,,3.65,74
+Madagascar,Kianjavato,03.31-01,2022-03-31,2022-03-31_id03.31-01,Varecia variegata,Black and white ruffed lemur,Adult,Canarium ferrugineum,17.9,12.67,NA,8,,3.65,74
+Madagascar,Kianjavato,04.01-01,2022-04-01,2022-04-01_id04.01-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,13.47,17.72,NA,6,,3.65,74
+Madagascar,Kianjavato,04.01-01,2022-04-01,2022-04-01_id04.01-01,Varecia variegata,Black and white ruffed lemur,Adult,Canarium ferrugineum,21.13,8.24,NA,6,,3.65,74
+Madagascar,Kianjavato,04.01-01,2022-04-01,2022-04-01_id04.01-01,Varecia variegata,Black and white ruffed lemur,Adult,Eugenia goviala,5.23,6.54,NA,6,Eating unripe fruit,3.65,74
+Madagascar,Kianjavato,04.04-01,2022-04-04,2022-04-04_id04.04-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,28.8,15.72,NA,9,,3.65,74
+Madagascar,Kianjavato,04.08-01,2022-04-08,2022-04-08_id04.08-01,Varecia variegata,Black and white ruffed lemur,Adult,Streblus mauritianus,54.83,16.52,NA,8,,3.65,74
